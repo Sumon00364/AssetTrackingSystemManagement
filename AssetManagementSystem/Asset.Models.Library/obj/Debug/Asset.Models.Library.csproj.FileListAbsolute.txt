@@ -1,0 +1,21 @@
+E:\01 Advance Work\AssetManagementSystem\Asset.Models.Library\bin\Debug\Asset.Models.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Models.Library\bin\Debug\Asset.Models.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.csprojResolveAssemblyReference.cache
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Models.Library\bin\Debug\Asset.Models.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Models.Library\bin\Debug\Asset.Models.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\bin\Debug\Asset.Models.Library.dll.config
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\bin\Debug\Asset.Models.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\bin\Debug\Asset.Models.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\bin\Debug\EntityFramework.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\bin\Debug\EntityFramework.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Models.Library\obj\Debug\Asset.Models.Library.csproj.CoreCompileInputs.cache

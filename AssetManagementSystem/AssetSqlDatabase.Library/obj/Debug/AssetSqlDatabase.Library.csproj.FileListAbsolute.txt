@@ -1,0 +1,60 @@
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.dll
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.dll
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.dll.config
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.dll
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.SqlServer.dll
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.xml
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.SqlServer.xml
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.csprojResolveAssemblyReference.cache
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\Asset.Models.Library.dll
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\Asset.Models.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateOrganization.resources
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.csproj.GenerateResource.Cache
+E:\01 Advance Work\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateOrganizationUpdate.resources
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.dll.config
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\Asset.Models.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\Asset.Models.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.xml
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.csprojResolveAssemblyReference.cache
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateOrganizationTable.resources
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.csproj.GenerateResource.Cache
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateBranchDepartmentDesignationTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.dll.config
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\AssetSqlDatabase.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\Asset.Models.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\Asset.Models.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateOrganizationTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateBranchDepartmentDesignationTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateAssetLocationTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.ChangeAssetLocationPropertyName.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateVendorTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateEmployeeTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateAssetTypeTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateAssetGroupTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateAssetManufactureTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateAssetModelTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.csproj.GenerateResource.Cache
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateAssetEntryTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateAttachmentTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateFinanceTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateNoteTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.Migrations.CreateServiceOrRepairingTable.resources
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\bin\Debug\Asset.Models.Library.dll.config
+E:\ASP.NET MVC 5\AssetManagementSystem\AssetSqlDatabase.Library\obj\Debug\AssetSqlDatabase.Library.csproj.CoreCompileInputs.cache

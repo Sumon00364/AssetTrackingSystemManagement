@@ -1,0 +1,49 @@
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll.config
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\bin\Debug\Core.Repository.Library.pdb
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\bin\Debug\EntityFramework.dll
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\bin\Debug\EntityFramework.xml
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\obj\Debug\Core.Repository.Library.csprojResolveAssemblyReference.cache
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\obj\Debug\Core.Repository.Library.dll
+E:\Repository Pattarn\HospitalManagementApp\Core.Repository.Library\obj\Debug\Core.Repository.Library.pdb
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll.config
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\bin\Debug\Core.Repository.Library.pdb
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\bin\Debug\EntityFramework.xml
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.xml
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\obj\Debug\Core.Repository.Library.csprojResolveAssemblyReference.cache
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\obj\Debug\Core.Repository.Library.dll
+E:\Class Library\.Net 4.5.2\Core.Repository.Library\obj\Debug\Core.Repository.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll.config
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.dll
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.dll
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.xml
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.xml
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.csprojResolveAssemblyReference.cache
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll.config
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.xml
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll.config
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\bin\Debug\Core.Repository.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 5\AssetManagementSystem\Core.Repository.Library\obj\Debug\Core.Repository.Library.csproj.CoreCompileInputs.cache

@@ -1,0 +1,96 @@
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe.config
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.dll
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.xml
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.pdb
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.csprojResolveAssemblyReference.cache
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.exe
+E:\01 Advance Work\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe.config
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.dll
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.xml
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.pdb
+E:\Forhad\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.csprojResolveAssemblyReference.cache
+E:\Forhad\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.exe
+E:\Forhad\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.csprojResolveAssemblyReference.cache
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe.config
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.dll
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.xml
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.pdb
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.exe
+C:\Users\sumon\Downloads\Compressed\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe.config
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.exe
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Console.App.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.dll
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.BisnessLogic.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Models.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.DataAccess.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Infrastucture.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\AssetSqlDatabase.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Asset.Core.Repository.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\bin\Debug\Core.Repository.Library.pdb
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.exe
+E:\ASP.NET MVC 5\AssetManagementSystem\Asset.Console.App\obj\Debug\Asset.Console.App.pdb
